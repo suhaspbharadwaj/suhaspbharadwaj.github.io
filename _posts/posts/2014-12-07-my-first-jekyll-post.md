@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "My First Jekyll Post "
+comments: true
 modified:
 categories: posts
 excerpt:
