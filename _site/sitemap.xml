@@ -1,120 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://suhaspbharadwaj.github.io/minimal-mistakes/author-override/</loc>
-    <lastmod>2014-07-31T00:00:00+05:30</lastmod>
+    <loc>http://suhaspbharadwaj.github.io/posts/my-first-jekyll-post/</loc>
+    <lastmod>2014-12-07T10:23:07+05:30</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://suhaspbharadwaj.github.io/author-override/</loc>
-    <lastmod>2014-07-31T00:00:00+05:30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://suhaspbharadwaj.github.io/minimal-mistakes/code-highlighting-post/</loc>
-    <lastmod>2013-08-16T00:00:00+05:30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://suhaspbharadwaj.github.io/code-highlighting-post/</loc>
-    <lastmod>2013-08-16T00:00:00+05:30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://suhaspbharadwaj.github.io/minimal-mistakes/sample-link-post/</loc>
-    <lastmod>2013-08-12T00:00:00+05:30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://suhaspbharadwaj.github.io/sample-link-post/</loc>
-    <lastmod>2013-08-12T00:00:00+05:30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://suhaspbharadwaj.github.io/readability-feature-post/</loc>
-    <lastmod>2013-05-23T00:00:00+05:30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://suhaspbharadwaj.github.io/minimal-mistakes/readability-feature-post/</loc>
-    <lastmod>2013-05-23T00:00:00+05:30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://suhaspbharadwaj.github.io/minimal-mistakes/sample-post-images/</loc>
-    <lastmod>2013-05-22T00:00:00+05:30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://suhaspbharadwaj.github.io/sample-post-images/</loc>
-    <lastmod>2013-05-22T00:00:00+05:30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://suhaspbharadwaj.github.io/readability-post/</loc>
-    <lastmod>2012-05-22T00:00:00+05:30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://suhaspbharadwaj.github.io/minimal-mistakes/readability-post/</loc>
-    <lastmod>2012-05-22T00:00:00+05:30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://suhaspbharadwaj.github.io/minimal-mistakes/sample-post/</loc>
-    <lastmod>2011-03-10T00:00:00+05:30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://suhaspbharadwaj.github.io/sample-post/</loc>
-    <lastmod>2011-03-10T00:00:00+05:30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://suhaspbharadwaj.github.io/about/</loc>
-    <lastmod>2014-12-06T23:58:11+05:30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://suhaspbharadwaj.github.io/minimal-mistakes/</loc>
-    <lastmod>2014-12-06T23:58:11+05:30</lastmod>
+    <loc>http://suhaspbharadwaj.github.io/posts/</loc>
+    <lastmod>2014-12-07T11:54:42+05:30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://suhaspbharadwaj.github.io/</loc>
-    <lastmod>2014-12-06T23:58:11+05:30</lastmod>
+    <lastmod>2014-12-07T11:54:42+05:30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>http://suhaspbharadwaj.github.io/posts/</loc>
-    <lastmod>2014-12-06T23:58:11+05:30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://suhaspbharadwaj.github.io/minimal-mistakes/theme-setup/</loc>
-    <lastmod>2014-12-06T23:58:11+05:30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>http://suhaspbharadwaj.github.io/theme-setup/</loc>
-    <lastmod>2014-12-06T23:58:11+05:30</lastmod>
+    <lastmod>2014-12-07T11:54:42+05:30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://suhaspbharadwaj.github.io/minimal-mistakes/about/</loc>
-    <lastmod>2014-12-06T23:58:11+05:30</lastmod>
+    <loc>http://suhaspbharadwaj.github.io/about/</loc>
+    <lastmod>2014-12-07T11:54:42+05:30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://suhaspbharadwaj.github.io/minimal-mistakes/posts/</loc>
-    <lastmod>2014-12-06T23:58:11+05:30</lastmod>
+    <loc>http://suhaspbharadwaj.github.io/posts/</loc>
+    <lastmod>2014-12-07T11:54:42+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://suhaspbharadwaj.github.io/projects/</loc>
+    <lastmod>2014-12-07T11:54:42+05:30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
