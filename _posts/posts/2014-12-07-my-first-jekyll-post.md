@@ -11,7 +11,7 @@ image:
 date: 2014-12-07T10:23:07+05:30
 ---
 
-## My First Mumblings
+### My First Mumblings
 
 {% highlight ruby linenos %}
 def show
