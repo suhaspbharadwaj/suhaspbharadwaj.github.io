@@ -30,7 +30,7 @@ owner:
   avatar: bio-photo.jpg
   bio: "Love Hiking. Love Hackathons and generally building new stuff ! "
   email: suhaspbharadwaj@gmail.com
-  disqus-shortname: Suhas Bharadwaj
+  disqus-shortname: suhasramblings
   twitter: suhas_dude
   facebook: suhas.p.bharadwaj
   google:
@@ -56,7 +56,7 @@ owner:
 comments :
   provider : disqus
   disqus :
-    short_name : suhasbharadwaj
+    short_name : suhasramblings
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
